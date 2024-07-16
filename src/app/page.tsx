@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="p-6 rounded bg-slate-800"><h1>Sélley Péter honlapja</h1></div>
       
-
+<div>cd server/personal && git pull && npm run build && pm2 restart nextjs-app</div>
     </main>
   );
 }
